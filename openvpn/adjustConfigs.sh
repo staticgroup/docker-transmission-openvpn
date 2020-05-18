@@ -15,7 +15,7 @@ normal=$(tput sgr0)
 
 display_usage() {
 	echo "${bold}Hint: read the script before using it${normal}"
-	echo "If you just forgot: ./adjustConfigs.sh <provider-folder>"
+	echo "If you just forgot: ./adjustConfigs.sh getflix"
 }
 
 # if no arguments supplied, display usage
